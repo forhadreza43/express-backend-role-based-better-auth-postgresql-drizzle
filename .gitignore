@@ -27,12 +27,12 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .cache
 *.tsbuildinfo
 
-.agent
-.agents
-.cursor
-.claude
-.codex
-.gemini
+.agent/
+.agents/
+.cursor/
+.claude/
+.codex/
+.gemini/
 
 # IntelliJ based IDEs
 .idea
